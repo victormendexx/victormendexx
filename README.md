@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working at the National Institute of Social Security as an Intern in Python Development.
 - 🌱 I'm also currently pursuing a degree in Systems Analysis and Development at the National Institute of Santa Catarina, and I'm taking the 'Entra21' course sponsored by the state government of Santa Catarina and anchor companies.
-- ⚡ Fun fact: ... I'm addicted to working out, and I believe that this hobby has taught me many life values such as leadership (correcting my friends' exercise execution and designing their workouts), commitment (no results come without consistency), and effort (it's not enough to be physically present; one must be present in mind and spirit).
+- 🏋🏽 Fun fact: I'm addicted to working out, and I believe that this hobby has taught me many life values such as leadership (correcting my friends' exercise execution and designing their workouts), commitment (no results come without consistency), and effort (it's not enough to be physically present; one must be present in mind and spirit).
 
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
