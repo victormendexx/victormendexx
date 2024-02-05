@@ -6,7 +6,8 @@
 - 🏋🏽 Fun fact: I'm addicted to working out, and I believe that this hobby has taught me many life values such as leadership (correcting my friends' exercise execution and designing their workouts), commitment (no results come without consistency), and effort (it's not enough to be physically present; one must be present in mind and spirit).
 
 <div>
-[All my links here!](https://linktr.ee/victormendexx)
+  ## All my links here!
+  https://linktr.ee/victormendexx
 </div>
 
 ## I code with
