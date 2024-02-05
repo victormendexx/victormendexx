@@ -5,7 +5,7 @@
 - 🌱 I'm also currently pursuing a degree in Systems Analysis and Development at the National Institute of Santa Catarina, and I'm taking the 'Python Entra21' course sponsored by the state government of Santa Catarina and anchor companies.
 - 🏋🏽 Fun fact: I'm addicted to working out, and I believe that this hobby has taught me many life values such as leadership (correcting my friends' exercise execution and designing their workouts), commitment (no results come without consistency), and effort (it's not enough to be physically present; one must be present in mind and spirit).
 
-## [All my links here!](https://linktr.ee/victormendexx)
+### [All my links here!](https://linktr.ee/victormendexx)
 
 ## I code with
 
