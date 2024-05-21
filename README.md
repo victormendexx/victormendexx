@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working at Eksy, an app tool for personal trainers. I'm still in a trial period, learning and delving into the project while adding functionalities.
 - 🌱 I'm also currently pursuing a degree in Systems Analysis and Development at the National Institute of Santa Catarina, but I have already finished the 'Python Entra21' course sponsored by the state government of Santa Catarina and anchor companies.
-- 🏋🏽 Fun fact: I'm addicted to working out, and I believe that this hobby has taught me many life values such as leadership, commitment, and effort.
+- 🏋🏽 Fun fact: My biggest hobby is working out, I can really say that I'm addicted to it. I believe that this hobby has taught me many life values such as leadership, commitment, and effort.
 
 ### [All my links here!](https://linktr.ee/victormendexx)
 
