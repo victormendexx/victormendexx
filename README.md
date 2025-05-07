@@ -11,10 +11,6 @@
 
 ### 🔗 [All my links here!](https://linktr.ee/victormendexx)
 
-## 📈 GitHub Stats
-
-![victormendexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormendexx&show_icons=true&theme=tokyonight)
-
 ## 🧰 I code with
 
 <div>
