@@ -1,25 +1,36 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Victor Gomes Mendes and my nickname is "victormendexx"!
+# 👋 Hello! Welcome to my GitHub profile.
+## My name is Victor Gomes Mendes, but you can call me "victormendexx"! 🚀
 
-- 🔭 I am currently working at Eksy wich is is a startup that owns a tool app for personal trainers. I usually deal with different demands, both in the old project built with PHP and YII and the new one in JavaScript. These demands include technology migration, restructuring the non-relational database, adding features, and fixing bugs. The platform has several fronts (helpdesk, hotsite, coach, and student), and I work on all of them, mainly on the back-end.
-- 🌱 I'm also currently pursuing a degree in Systems Analysis and Development at the National Institute of Santa Catarina, but I have already finished the 'Python Entra21' course sponsored by the state government of Santa Catarina and anchor companies.
-- 🏋🏽 Fun fact: My biggest hobby is working out, I can really say that I'm addicted to it. I believe that this hobby has taught me many life values such as leadership, commitment, and effort.
+- 🔭 I’m currently working as a Fullstack Developer at **Premiersoft**, where I build scalable web applications using **TypeScript**, **React**, and **NestJS**. I joined through their internal Academy program, which included technical training and residency in real-world projects.  
+- 🛠 Previously, I worked at **Eksy**, a startup that provides tools for personal trainers. There, I dealt with diverse demands across multiple platform areas (helpdesk, hotsite, coach, and student), mainly focusing on backend tasks. My responsibilities involved **technology migration** from PHP/YII to JavaScript, **NoSQL database restructuring**, feature implementation, and bug fixing.  
+- 🐍 I also had the opportunity to work with **Python and Django** at the **INSS**, automating internal workflows and integrating RESTful APIs.  
+- 🎓 I’m currently pursuing a degree in **Systems Analysis and Development** at **IFSC**, one of the top-rated tech institutes in Brazil. In parallel, I completed a 360-hour course in Python through the **Entra21** program, where I gained hands-on experience in collaborative, agile-based software development environments.  
+- 📚 I enjoy working with both front-end and back-end technologies and I’m always looking to sharpen my skills and take on new challenges.  
+- 🧠 I’m passionate about personal and professional growth, and I believe technology should be used to create smart and efficient solutions.  
+- 🏋🏽 Fun fact: I’m a fitness enthusiast! Weight training is a big part of my life and has taught me essential values such as discipline, consistency, and resilience — traits I carry into my career as a developer.
 
-### [All my links here!](https://linktr.ee/victormendexx)
+### 🔗 [All my links here!](https://linktr.ee/victormendexx)
 
-## I code with
+## 📈 GitHub Stats
+
+![victormendexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormendexx&show_icons=true&theme=tokyonight)
+
+## 🧰 I code with
 
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
